@@ -1,0 +1,21 @@
+body {
+     background-color: white;
+     font-family: arial;
+}
+ .lines1 {
+     margin-left: 140px;
+     font-size: 25px;
+     color: red;
+}
+ .lines2 {
+     margin-left: 120px;
+     font-size: 50px;
+     color: blue;
+}
+ .lines3 {
+     margin-left: 160px;
+     font-size: 30px;
+     color: green;
+     border: red 5px;
+     padding: 15px;
+}
